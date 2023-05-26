@@ -1,0 +1,9 @@
+* cl-colors2
+
+A simple color library for Common Lisp
+
+|---------+---------------------------------------------|
+| source  | git:https://notabug.org/cage/cl-colors2.git |
+| commit  | d22ddea                                     |
+| systems | cl-colors2                                  |
+|---------+---------------------------------------------|
