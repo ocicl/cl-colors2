@@ -4,6 +4,6 @@ A simple color library for Common Lisp
 
 |---------+---------------------------------------------|
 | source  | git:https://notabug.org/cage/cl-colors2.git |
-| commit  | d22ddea                                     |
+| commit  | bcb13f8f75                                  |
 | systems | cl-colors2                                  |
 |---------+---------------------------------------------|
