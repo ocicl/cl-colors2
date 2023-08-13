@@ -2,8 +2,9 @@
 
 A simple color library for Common Lisp
 
+
 |---------+---------------------------------------------|
 | source  | git:https://notabug.org/cage/cl-colors2.git |
-| commit  | bcb13f8f75                                  |
+| commit  | bcb13f8                                     |
 | systems | cl-colors2                                  |
 |---------+---------------------------------------------|
