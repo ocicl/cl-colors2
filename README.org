@@ -8,4 +8,4 @@ A simple color library for Common Lisp
 | commit  | c3153b6                                     |
 | systems | cl-colors2                                  |
 |---------+---------------------------------------------|
- 
+  
